@@ -1,0 +1,29 @@
+.qa{
+    background-color: #328335; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-family: "Metamorphous", cursive;
+    margin: 16px 32px;
+}
+
+a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }
+
+  .link{
+      color: hotpink;
+  }
